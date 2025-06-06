@@ -61,7 +61,7 @@ By working through this repository, you will:
 
 - Kim & Karrila, *Microhydrodynamics: Principles and Selected Applications*
 - Subramanian & Koch (2006), *Inertial effects in linear flows*
-- Fluid mechanics course notes (IIT Kanpur)
+- MicroHydrodynamics and Suspensions notes (IIT Kanpur)
 
 ---
 
